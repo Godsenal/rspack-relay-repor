@@ -12,6 +12,7 @@ module.exports = {
         template: "./index.html",
       },
     ],
+    relay: true,
   },
   devServer: {
     allowedHosts: "all",
