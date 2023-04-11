@@ -8,12 +8,13 @@
     "build": "rspack build"
   },
   "dependencies": {
+    "axios-retry": "^3.4.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-relay": "^15.0.0"
   },
   "devDependencies": {
-    "@rspack/cli": "latest",
+    "@rspack/cli": "0.1.7",
     "@types/react": "^18.0.25",
     "@types/react-dom": "^18.0.8",
     "relay-compiler": "^15.0.0"
